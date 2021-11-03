@@ -13,7 +13,7 @@
 				hideCloseButtonOnMobile : false,
 				hideBarsDelay : 3000,
 				videoMaxWidth : 1140,
-				vimeoColor : 'cccccc',
+				vimeoColor : 'ffffff',
 				beforeOpen: null,
 				afterOpen: null,
 				afterClose: null,
